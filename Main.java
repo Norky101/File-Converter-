@@ -7,8 +7,8 @@ public class Main
 
 // TEST 1
 
-        String source1 = "/Users/phillipjohnson/Desktop/Java/Assignment5/test/myfile.txt" ;
-        String dest1 = "/Users/phillipjohnson/Desktop/Java/Assignment5/test/myfile2.csv" ;
+        String source1 = "/Users/name/Desktop/Java/Assignment5/test/myfile.txt" ;
+        String dest1 = "/Users/name/Desktop/Java/Assignment5/test/myfile2.csv" ;
         System.out.println("TEST1: ");
         ConvertFile.convert(source1, dest1);
         ConvertFile.normalize(source1);
